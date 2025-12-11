@@ -1,0 +1,15 @@
+{
+  "status": "FAILED",
+  "syntax_errors": [
+    {
+      "file": "/var/folders/fm/xxc14wtx289_vzk7w0znw9_40000gn/T/tmpx5wa7c6u/bad_pkg/node.py",
+      "err": "  File \"/var/folders/fm/xxc14wtx289_vzk7w0znw9_40000gn/T/tmpx5wa7c6u/bad_pkg/node.py\", line 1\n    def main()\n              ^\nSyntaxError: expected ':'\n"
+    }
+  ],
+  "structure_valid": false,
+  "node_info": {
+    "has_init": false,
+    "pubs": 0,
+    "subs": 0
+  }
+}

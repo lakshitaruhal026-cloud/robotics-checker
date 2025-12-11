@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "frames": [
+    "/Users/lakshita/Documents/robotics-checker/web/sim/sample_frames/frame_1.png",
+    "/Users/lakshita/Documents/robotics-checker/web/sim/sample_frames/frame_2.png",
+    "/Users/lakshita/Documents/robotics-checker/web/sim/sample_frames/frame_3.png",
+    "/Users/lakshita/Documents/robotics-checker/web/sim/sample_frames/frame_4.png",
+    "/Users/lakshita/Documents/robotics-checker/web/sim/sample_frames/frame_5.png"
+  ],
+  "joint_positions": [
+    0.0,
+    0.5,
+    1.0,
+    0.2,
+    -0.2,
+    0.0
+  ]
+}

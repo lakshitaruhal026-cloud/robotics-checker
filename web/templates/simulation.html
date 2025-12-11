@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Simulation Preview</title>
+  </head>
+  <body>
+    <h2>Simulation Result</h2>
+    <p>Success: {{ result.success }}</p>
+    <p>Joint positions: {{ result.joint_positions }}</p>
+    <div>
+      {% for p in result.frames %}
+        <img src="{{ '/frames/' + p.split('/')[-1] }}" width="320" style="margin:6px; border:1px solid #ccc"/>
+      {% endfor %}
+    </div>
+    <hr/>
+    <a href="/">Back</a>
+  </body>
+</html>

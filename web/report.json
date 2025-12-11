@@ -1,0 +1,10 @@
+{
+  "status": "PASSED",
+  "syntax_errors": [],
+  "structure_valid": true,
+  "node_info": {
+    "has_init": false,
+    "pubs": 0,
+    "subs": 0
+  }
+}
